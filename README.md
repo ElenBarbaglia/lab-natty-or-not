@@ -1,8 +1,3 @@
-
-
-### Template
-
-```markdown
 # N IAs Generativas
 
 ## 📒 Descrição

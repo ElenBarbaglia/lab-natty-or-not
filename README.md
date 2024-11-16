@@ -1,4 +1,4 @@
-#  MusicArt
+#  PoeArt
 
 ## 📒 Descrição
 PoeArt é um projeto inovador que transforma poemas em imagens, 

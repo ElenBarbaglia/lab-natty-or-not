@@ -11,34 +11,14 @@ visuais que ampliam os horizontes da literatura e da arte.
 
 
 ## 🤖 Tecnologias Utilizadas
-GPT: para criar o poema
+ChatGPT: descrever o poema
 DALL-E: para gerar a imagem
 
 ## 🧐 Processo de Criação
-Utilizando a ferramenta do ChatGpt o poema foi criado e depois com auxilio 
-do DALL-E a imagem foi criada a partir do poema.
+Utilizei o ChatGPT para transformar a essencia do poema em
+uma descrição, em seguida com a descrição criada gerei um prompt 
+para o DALL-E criar a imagem.
 
 ## 🚀 Resultados
-Poema criado:
-# Amizade
+  <img width="324" alt="poema" src="https://github.com/user-attachments/assets/60f21a6e-26bc-42d7-a8b1-dc8a98d53812">
 
-Amizade é abraço sem pressa,
-Palavra que aquece e confessa.
-É riso que rompe o silêncio,
-É porto seguro em consenso.
-
-É sol que ilumina a estrada,
-Companheira em jornada cansada.
-É vento suave no rosto,
-Alegria que afasta o desgosto.
-
-Nos dias de festa, é quem dança,
-E nos de tristeza, esperança.
-Amizade é força e ternura,
-Um laço que o tempo perdura.
-
-# Imagem Desenvolvida a partir do poema:
-
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
